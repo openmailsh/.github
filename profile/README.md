@@ -1,3 +1,5 @@
+![Email inbox for AI agents](profile/assets/banner.png)
+
 # OpenMail
 
 Email inbox infrastructure for AI agents.
