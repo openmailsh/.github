@@ -1,4 +1,4 @@
-![Email inbox for AI agents](profile/assets/banner.png)
+![Email inbox for AI agents](https://raw.githubusercontent.com/openmailsh/.github/main/profile/assets/banner.png)
 
 # OpenMail
 
